@@ -1,4 +1,4 @@
-****Mountain Dog MMA web repo****
+****QR Ticketing system + live stats****
 
 
 Welcome! This was created in a few days to help my friend with an amateur MMA event he put on for charity.
@@ -15,3 +15,4 @@ instructions for running:
 - insert google sheets json api key
 - populate data.py file with access tokens
 - `pip install qrcode, venmo_api, pillow, peewee, sanic, twilio, oauth2client, gspread`
+- `./main.py` and you're off!
